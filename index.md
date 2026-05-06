@@ -1,9 +1,7 @@
-# CMPN202 Operating Systems Coursework
+# Operating Systems Coursework
 
-## Student Information
-
-* Module: CMPN202 Operating Systems
-* Coursework Type: Technical Journal and System Demonstration
+* Module: Operating Systems
+* Coursework: Technical Journal and System Demonstration
 * Operating System: Ubuntu Server 24.04 LTS
 * Virtualisation Platform: Oracle VirtualBox
 * Workstation Environment: Windows + Git Bash
