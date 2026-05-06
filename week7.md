@@ -1,4 +1,8 @@
-# Week 7 – Security Auditing and Monitoring
+# Week 7 – Security Audit and Monitoring
+
+[← Week 6](week6.md) | [Back to Home](index.md)
+
+---
 
 ## Objective
 The objective of this week was to perform security auditing and monitoring on the Ubuntu server environment. This included vulnerability scanning, firewall verification, intrusion prevention monitoring, running service auditing, and system hardening assessment using Lynis.
