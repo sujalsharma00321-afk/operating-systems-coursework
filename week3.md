@@ -1,6 +1,6 @@
-# Week 3 — Application Selection for Performance Testing
+# Week 3 – Application Selection for Performance Testing
 
-[Back to Home](index.md)
+[← Week 2](week2.md) | [Back to Home](index.md) | [Next: Week 4 →](week4.md)
 
 ---
 
