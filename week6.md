@@ -39,7 +39,7 @@ These measurements were important for comparing system behaviour before and afte
 
 ## Evidence
 
-
+**Baseline-Top**
 
 <img width="1895" height="1129" alt="week6-baseline-top" src="https://github.com/user-attachments/assets/eb3d9c80-453f-4064-9125-77d3dcd965b3" />
 
@@ -47,7 +47,7 @@ These measurements were important for comparing system behaviour before and afte
 
 
 
-![Memory Baseline](images/week6-memory-baseline.png)
+**Memory Baseline**
 
 <img width="1827" height="1083" alt="week6-memory-baseline" src="https://github.com/user-attachments/assets/b450a898-0e40-4849-9947-f453720c08cf" />
 
@@ -55,7 +55,7 @@ These measurements were important for comparing system behaviour before and afte
 
 
 
-![VMStat Baseline](images/week6-vmstat-baseline.png)
+**vmstat-Baseline**
 
 <img width="1713" height="1129" alt="week6-vmstat-baseline" src="https://github.com/user-attachments/assets/b114dd9a-ad76-4f1b-aa55-5237049fcdcf" />
 
@@ -84,7 +84,7 @@ The test generated artificial CPU load using two worker threads for 30 seconds. 
 
 ## Evidence
 
-![CPU Stress Test](images/week6-cpu-stress.png)
+**cpu-stress**
 
 <img width="1905" height="1121" alt="week6-cpu-stress" src="https://github.com/user-attachments/assets/d7d46353-e127-4241-9968-071e290cc13d" />
 
@@ -139,7 +139,7 @@ Disk performance is important because storage bottlenecks directly affect operat
 
 ## Evidence
 
-![FIO Benchmark](images/week6-fio-benchmark.png)
+**fio-benchmark**
 
 <img width="1903" height="1123" alt="week6-fio-benchmark" src="https://github.com/user-attachments/assets/af5ac663-720f-44a4-bf24-d6ae9c54c069" />
 
@@ -174,7 +174,7 @@ The host-only VirtualBox adapter provided a stable isolated testing environment 
 
 ## Evidence
 
-![iPerf3 Test](images/week6-iperf3-test.png)
+**iperf3-test**
 
 <img width="1687" height="1128" alt="week6-iperf3-test" src="https://github.com/user-attachments/assets/7b77fe54-ca5a-4f07-82d2-19c749730b72" />
 
@@ -204,7 +204,7 @@ Low latency values demonstrated efficient communication between the workstation 
 
 ## Evidence
 
-![Ping Latency](images/week6-ping-latency.png)
+**ping-latency**
 
 <img width="1895" height="1129" alt="week6-ping-latency" src="https://github.com/user-attachments/assets/1ec042cb-15c4-4a27-91a9-ccf7a35495a3" />
 
