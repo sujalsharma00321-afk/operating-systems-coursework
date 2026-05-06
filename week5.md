@@ -24,9 +24,11 @@ UFW (Uncomplicated Firewall) was configured to allow SSH access only from the ho
 
 ## Evidence
 
-![UFW Firewall Status](images/week5-ufw-status.png)
+<img width="1816" height="582" alt="week5-ufw" src="https://github.com/user-attachments/assets/290f2810-dd25-4368-83a0-7ec694b36b8b" />
+
 
 ---
+
 
 # 2. SSH Security Hardening
 
@@ -51,9 +53,11 @@ The SSH configuration file was modified to strengthen remote access security and
 
 ## Evidence
 
-![SSH Hardening](images/week5-ssh-hardening.png)
+<img width="1809" height="1055" alt="week5-ssh-hardening" src="https://github.com/user-attachments/assets/5537a75a-328d-43a6-a146-464742296bf1" />
+
 
 ---
+
 
 # 3. AppArmor Status Verification
 
@@ -68,9 +72,12 @@ AppArmor security profiles were verified to ensure mandatory access control prot
 
 ## Evidence
 
-![AppArmor Status](images/week5-apparmor-status.png)
+
+<img width="1442" height="1130" alt="week5-apparmor-status" src="https://github.com/user-attachments/assets/880a0555-94f4-4de6-ac86-7ab0a79963a7" />
+
 
 ---
+
 
 # 4. Fail2Ban Installation and Configuration
 
@@ -111,9 +118,12 @@ Fail2Ban was configured to monitor SSH login attempts and temporarily ban IP add
 
 ## Evidence
 
-![Fail2Ban Status](images/week5-fail2ban-working.png)
+
+<img width="1919" height="1126" alt="week5-fail2ban-working" src="https://github.com/user-attachments/assets/f4e1418b-41b8-4aa3-8280-33255cdf99a5" />
+
 
 ---
+
 
 # 5. Security Summary
 
