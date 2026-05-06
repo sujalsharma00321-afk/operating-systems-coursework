@@ -1,4 +1,3 @@
-<img width="1895" height="1129" alt="week6-baseline-top" src="https://github.com/user-attachments/assets/65651e25-9f67-440e-a5a7-201921fa679c" />
 # Week 6 – Performance Evaluation and Analysis
 
 [← Week 5](week5.md) | [Back to Home](index.md) | [Next: Week 7 →](week7.md)
@@ -40,7 +39,7 @@ These measurements were important for comparing system behaviour before and afte
 
 ## Evidence
 
-![Top Baseline](images/week6-baseline-top.png)
+
 
 <img width="1895" height="1129" alt="week6-baseline-top" src="https://github.com/user-attachments/assets/eb3d9c80-453f-4064-9125-77d3dcd965b3" />
 
