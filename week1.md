@@ -29,6 +29,11 @@ The workstation remotely administers the Linux server entirely through SSH comma
 
 ---
 
+<img width="1146" height="639" alt="week1-architecture-diagram (1)" src="https://github.com/user-attachments/assets/3bbba370-04f9-44f3-8fc5-42b2d4ddba0f" />
+
+---
+
+
 # Distribution Selection Justification
 
 Ubuntu Server 24.04 LTS was selected as the server operating system for the following reasons:
