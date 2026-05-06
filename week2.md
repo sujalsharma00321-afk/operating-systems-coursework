@@ -1,6 +1,6 @@
-# Week 2 — Security Planning and Testing Methodology
+# Week 2 – Security Planning and Testing Methodology
 
-[Back to Home](index.md)
+[← Week 1](week1.md) | [Back to Home](index.md) | [Next: Week 3 →](week3.md)
 
 ---
 
