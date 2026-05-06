@@ -1,8 +1,9 @@
-# Week 1 — System Planning and Distribution Selection
+# Week 1 – System Planning and Distribution Selection
 
-[Back to Home](index.md)
+[Back to Home](index.md) | [Next: Week 2 →](week2.md)
 
 ---
+
 
 # Introduction
 
