@@ -52,12 +52,12 @@ The Ubuntu Server VM operates without a graphical interface and is administered 
 | Week               | Topic                                                    |
 | ------------------ | -------------------------------------------------------- |
 | [Week 1](week1.md) | System Planning and Distribution Selection               |
-| Week 2             | Security Planning and Testing Methodology                |
-| Week 3             | Application Selection for Performance Testing            |
-| Week 4             | Initial System Configuration and Security Implementation |
-| Week 5             | Advanced Security and Monitoring Infrastructure          |
-| Week 6             | Performance Evaluation and Analysis                      |
-| Week 7             | Security Audit and System Evaluation                     |
+| [Week 2](week2.md) | Security Planning and Testing Methodology                |
+| [Week 3](week3.md) | Application Selection for Performance Testing            |
+| [Week 4](week4.md) | Initial System Configuration and Security Implementation |
+| [Week 5](week5.md) | Advanced Security and Monitoring Infrastructure          |
+| [Week 6](week6.md) | Performance Evaluation and Analysis                      |
+| [Week 7](week7.md) | Security Audit and System Evaluation                     |
 
 ---
 
