@@ -158,23 +158,32 @@ sudo systemctl status nginx
 1. Fail2Ban active service status verification 
 <img width="1919" height="1124" alt="week7-fail2ban-status" src="https://github.com/user-attachments/assets/cc41b989-7200-4f1f-a201-87e97d26a388" />
 
+---
+
 
 2. Lynis security audit results and hardening index
 <img width="1915" height="1132" alt="week7-lynis-improved-score" src="https://github.com/user-attachments/assets/4ca01bb9-0eba-4686-a17f-72e53263b4e7" />
+
+---
 
 
 3. Nmap network scan and open port analysis
 <img width="1705" height="1123" alt="week7-nmap-scan" src="https://github.com/user-attachments/assets/73e7037c-a1ef-4709-a4ff-22ecca2db990" />
 
+---
+
 
 4. Running system services verification
 <img width="1405" height="1125" alt="week7-running-services" src="https://github.com/user-attachments/assets/64cde811-b58b-4105-8079-add464261edd" />
+
+---
 
 
 5. Security controls and firewall configuration validation
 <img width="1853" height="1133" alt="week7-security-controls" src="https://github.com/user-attachments/assets/eca182c7-513c-47cc-ad54-1cb807391b10" />
    
 ---
+
 
 # Conclusion
 
