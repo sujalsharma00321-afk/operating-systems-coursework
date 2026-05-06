@@ -196,10 +196,3 @@ Remote administration through SSH highlighted the importance of command-line pro
 
 ---
 
-# References
-
-[1] Ubuntu Server Documentation. Available: https://ubuntu.com/server/docs [Accessed: 6 May 2026].
-
-[2] Oracle VirtualBox Documentation. Available: https://www.virtualbox.org/wiki/Documentation [Accessed: 6 May 2026].
-
-[3] OpenSSH Documentation. Available: https://www.openssh.com/manual.html [Accessed: 6 May 2026].
