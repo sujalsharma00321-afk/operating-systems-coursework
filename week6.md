@@ -1,5 +1,9 @@
 # Week 6 – Performance Evaluation and Analysis
 
+[← Week 5](week5.md) | [Back to Home](index.md) | [Next: Week 7 →](week7.md)
+
+---
+
 ## Objective
 
 The objective of this week was to evaluate Ubuntu Server performance under different workload conditions. Multiple benchmarking and monitoring tools were used to analyse CPU utilisation, memory usage, disk I/O performance, network throughput, latency, and web server responsiveness.
