@@ -1,4 +1,8 @@
-# Week 4 — Initial System Configuration and Security Implementation
+# Week 4 – Initial System Configuration and Security Implementation
+
+[← Week 3](week3.md) | [Back to Home](index.md) | [Next: Week 5 →](week5.md)
+
+---
 
 ## Overview
 
