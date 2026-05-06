@@ -1,4 +1,8 @@
-# Week 5 – Security Hardening and Monitoring
+# Week 5 – Advanced Security and Monitoring Infrastructure
+
+[← Week 4](week4.md) | [Back to Home](index.md) | [Next: Week 6 →](week6.md)
+
+---
 
 ## Objective
 The objective of this week was to improve Linux server security using firewall rules, intrusion prevention systems, AppArmor, and SSH hardening techniques on the Ubuntu Server virtual machine.
