@@ -1,3 +1,4 @@
+<img width="1895" height="1129" alt="week6-baseline-top" src="https://github.com/user-attachments/assets/65651e25-9f67-440e-a5a7-201921fa679c" />
 # Week 6 – Performance Evaluation and Analysis
 
 [← Week 5](week5.md) | [Back to Home](index.md) | [Next: Week 7 →](week7.md)
@@ -41,9 +42,25 @@ These measurements were important for comparing system behaviour before and afte
 
 ![Top Baseline](images/week6-baseline-top.png)
 
+<img width="1895" height="1129" alt="week6-baseline-top" src="https://github.com/user-attachments/assets/eb3d9c80-453f-4064-9125-77d3dcd965b3" />
+
+---
+
+
+
 ![Memory Baseline](images/week6-memory-baseline.png)
 
+<img width="1827" height="1083" alt="week6-memory-baseline" src="https://github.com/user-attachments/assets/b450a898-0e40-4849-9947-f453720c08cf" />
+
+---
+
+
+
 ![VMStat Baseline](images/week6-vmstat-baseline.png)
+
+<img width="1713" height="1129" alt="week6-vmstat-baseline" src="https://github.com/user-attachments/assets/b114dd9a-ad76-4f1b-aa55-5237049fcdcf" />
+
+
 
 ---
 
@@ -70,7 +87,12 @@ The test generated artificial CPU load using two worker threads for 30 seconds. 
 
 ![CPU Stress Test](images/week6-cpu-stress.png)
 
+<img width="1905" height="1121" alt="week6-cpu-stress" src="https://github.com/user-attachments/assets/d7d46353-e127-4241-9968-071e290cc13d" />
+
+
+
 ---
+
 
 # 3. Memory Performance Testing
 
@@ -120,7 +142,12 @@ Disk performance is important because storage bottlenecks directly affect operat
 
 ![FIO Benchmark](images/week6-fio-benchmark.png)
 
+<img width="1903" height="1123" alt="week6-fio-benchmark" src="https://github.com/user-attachments/assets/af5ac663-720f-44a4-bf24-d6ae9c54c069" />
+
+
+
 ---
+
 
 # 5. Network Throughput Testing
 
@@ -150,7 +177,11 @@ The host-only VirtualBox adapter provided a stable isolated testing environment 
 
 ![iPerf3 Test](images/week6-iperf3-test.png)
 
+<img width="1687" height="1128" alt="week6-iperf3-test" src="https://github.com/user-attachments/assets/7b77fe54-ca5a-4f07-82d2-19c749730b72" />
+
+
 ---
+
 
 # 6. Latency Analysis
 
@@ -176,7 +207,11 @@ Low latency values demonstrated efficient communication between the workstation 
 
 ![Ping Latency](images/week6-ping-latency.png)
 
+<img width="1895" height="1129" alt="week6-ping-latency" src="https://github.com/user-attachments/assets/1ec042cb-15c4-4a27-91a9-ccf7a35495a3" />
+
+
 ---
+
 
 # 7. Nginx Web Server Response Testing
 
@@ -198,11 +233,8 @@ The test verified:
 
 The successful HTTP response confirmed that nginx was operating correctly on the Ubuntu Server.
 
-## Evidence
-
-![Nginx Response](images/week6-nginx-response.png)
-
 ---
+
 
 # 8. Performance Monitoring Tools Used
 
