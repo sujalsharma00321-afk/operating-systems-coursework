@@ -1,8 +1,8 @@
 # Operating Systems Coursework
 
 ## Student Information
-- Name: YOUR NAME
-- Student ID: YOUR STUDENT ID
+- Name: Anush Paudel
+- Student ID: A00022121
 
 ## Project Description
 This coursework documents the setup, administration, hardening, monitoring, and auditing of an Ubuntu Linux server environment. The project includes system configuration, package management, SSH hardening, firewall setup, intrusion prevention, service auditing, and security assessment using industry-standard tools.
