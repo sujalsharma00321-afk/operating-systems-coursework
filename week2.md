@@ -42,7 +42,13 @@ The analysis confirmed:
 * Active remote administration capability
 * Successful workstation-to-server connectivity
 
-(Insert SSH service status screenshot below this section)
+**Evidence**
+
+<img width="1750" height="1127" alt="week2-ssh-service-status" src="https://github.com/user-attachments/assets/95f23f44-6f2c-4444-894c-c19002cf36e5" />
+
+
+---
+
 
 The use of SSH enables secure encrypted remote administration whilst reducing the need for direct console interaction with the server.
 
@@ -59,7 +65,14 @@ Key observations included:
 * PAM authentication enabled
 * Default SSH port configuration active
 
-(Insert SSH configuration screenshot below this section)
+
+**EVidence**
+
+<img width="1620" height="1129" alt="week2-current-ssh-config" src="https://github.com/user-attachments/assets/00b673d8-b3d2-40c1-81e4-106f1e12d823" />
+
+
+---
+
 
 The default SSH configuration provides basic functionality but requires further hardening. Future improvements will include:
 
@@ -74,7 +87,14 @@ The default SSH configuration provides basic functionality but requires further 
 
 The Ubuntu UFW firewall status was inspected.
 
-(Insert firewall status screenshot below this section)
+
+**Evidence**
+
+<img width="1515" height="1097" alt="week2-firewall-status" src="https://github.com/user-attachments/assets/6f606ff7-4a4d-4094-94e9-e29124bd8174" />
+
+
+---
+
 
 The firewall was initially inactive, meaning incoming network traffic was not currently restricted. Whilst acceptable during initial deployment, this represents a potential security risk that will be mitigated in Week 4 through firewall rule implementation and SSH access restrictions.
 
@@ -84,7 +104,14 @@ The firewall was initially inactive, meaning incoming network traffic was not cu
 
 AppArmor status was analysed using the `aa-status` command.
 
-(Insert AppArmor screenshot below this section)
+
+**Evidence**
+
+<img width="1739" height="1100" alt="week2-apparmor-status" src="https://github.com/user-attachments/assets/03ae7aee-d0d7-4d13-b677-41a577cfa667" />
+
+
+---
+
 
 The analysis confirmed that several system services were already protected using AppArmor security profiles operating in enforce mode. This demonstrates Ubuntu Server’s use of mandatory access control mechanisms to reduce the impact of service compromise.
 
@@ -101,7 +128,14 @@ AppArmor was selected instead of SELinux due to:
 
 The `ss -tuln` command was used to inspect active listening services and network ports.
 
-(Insert open services screenshot below this section)
+
+**Evidence**
+
+<img width="1900" height="1038" alt="week2-open-services" src="https://github.com/user-attachments/assets/7a87fc41-b1d9-4879-a6e2-e1d443afbe48" />
+
+
+---
+
 
 The analysis identified currently exposed services and network sockets. Monitoring active listening ports is important because unnecessary services increase the attack surface of the operating system.
 
