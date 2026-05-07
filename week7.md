@@ -139,6 +139,40 @@ sudo systemctl status nginx
 
 ---
 
+## 11. Automated System Health Monitoring Script
+
+A custom Bash script called `system-health-check.sh` was developed to automate routine Linux server monitoring and security verification tasks.
+
+The script performs:
+- uptime checks
+- memory monitoring
+- disk usage analysis
+- firewall verification
+- Fail2Ban status checking
+- internet connectivity testing
+- running service inspection
+
+## Script Execution Command
+
+```bash
+./system-health-check.sh
+```
+
+## Features Implemented
+
+- Bash scripting automation
+- Help flag support
+- Command-line reporting
+- Security monitoring
+- System health analysis
+- Administrative task automation
+
+## Evidence
+
+![System Health Script](images/week7-system-health-script.png)
+
+---
+
 # Security Improvements Implemented
 
 - Firewall configuration using UFW
