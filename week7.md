@@ -169,9 +169,12 @@ The script performs:
 
 ## Evidence
 
-![System Health Script](images/week7-system-health-script.png)
+
+<img width="1891" height="1123" alt="week7-system-health-script" src="https://github.com/user-attachments/assets/96d45912-c313-4d6d-8327-b5c9ec3fd220" />
+
 
 ---
+
 
 # Security Improvements Implemented
 
