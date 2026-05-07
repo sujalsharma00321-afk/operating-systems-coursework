@@ -1,5 +1,7 @@
 # Operating Systems Coursework
 
+* Student: Anush Paudel
+* Student ID: A00022121
 * Module: Operating Systems
 * Coursework: Technical Journal and System Demonstration
 * Operating System: Ubuntu Server 24.04 LTS
