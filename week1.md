@@ -99,9 +99,11 @@ Remote administration was performed from the Windows workstation using Git Bash.
 
 ## SSH Connection Evidence
 
-(Insert SSH connection screenshot below this section)
+<img width="1270" height="915" alt="week1-ssh-success" src="https://github.com/user-attachments/assets/5ca15fb8-eff4-400b-bff5-ce3d5a8a9830" />
+
 
 ---
+
 
 # Command-Line Evidence
 
@@ -109,25 +111,33 @@ Remote administration was performed from the Windows workstation using Git Bash.
 
 The `uname -a` command displays Linux kernel information, system architecture, hostname, and operating system details.
 
-(Insert uname screenshot below this section)
+
+<img width="1466" height="988" alt="week1-uname-output" src="https://github.com/user-attachments/assets/541fe310-72aa-4beb-b7aa-6862c7917b8b" />
+
 
 ---
+
 
 ## free -h
 
 The `free -h` command displays memory usage statistics including total RAM, used memory, available memory, and swap usage using human-readable formatting.
 
-(Insert memory screenshot below this section)
+
+
 
 ---
+
 
 ## df -h
 
 The `df -h` command displays filesystem storage usage and mounted partitions in human-readable format.
 
-(Insert disk usage screenshot below this section)
+
+<img width="1374" height="1090" alt="week1-disk-usage" src="https://github.com/user-attachments/assets/9f13330a-0fa9-43a9-a48f-dbfeb1aca14f" />
+
 
 ---
+
 
 ## ip addr
 
@@ -139,17 +149,24 @@ The output confirmed:
 * Host-Only adapter configuration
 * Internal SSH management IP address
 
-(Insert network configuration screenshot below this section)
+
+
+<img width="1531" height="496" alt="week1-network-config" src="https://github.com/user-attachments/assets/0a293c9d-fe9b-4b35-9c93-ad750e4f04a6" />
+
 
 ---
+
 
 ## lsb_release -a
 
 The `lsb_release -a` command displays Linux distribution information including Ubuntu version, codename, and release details.
 
-(Insert distribution screenshot below this section)
+
+<img width="973" height="153" alt="week1-distribution-info" src="https://github.com/user-attachments/assets/ff09a182-119f-4705-ab88-423f603a3838" />
+
 
 ---
+
 
 # Advanced System Analysis
 
@@ -157,17 +174,23 @@ The `lsb_release -a` command displays Linux distribution information including U
 
 The `hostnamectl` command provided additional operating system metadata including hostname configuration, virtualization details, and kernel information.
 
-(Insert hostnamectl screenshot below this section)
+
+<img width="1678" height="1123" alt="week1-hostnamectl" src="https://github.com/user-attachments/assets/2b33304d-2162-435f-8fd6-1257e54c6c22" />
+
 
 ---
+
 
 ## lscpu
 
 The `lscpu` command displayed processor architecture, CPU virtualization support, core allocation, and processor capabilities.
 
-(Insert CPU information screenshot below this section)
+
+<img width="1898" height="1097" alt="week1-cpu-info" src="https://github.com/user-attachments/assets/2a1f2a3b-4fd5-4148-b364-9a0ac641e775" />
+
 
 ---
+
 
 ## lsblk
 
@@ -181,9 +204,13 @@ The `lsblk` command displayed block storage devices and partition structures con
 
 The ping connectivity test verified external network communication and internet access from the Ubuntu Server virtual machine.
 
-(Insert ping screenshot below this section)
+
+<img width="1697" height="1125" alt="week1-ping-test" src="https://github.com/user-attachments/assets/4077a0d5-9770-4c2d-9266-1fa4b35963ba" />
+
 
 ---
+
+
 
 # Reflection
 
