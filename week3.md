@@ -44,7 +44,13 @@ Installed packages:
 * nginx
 * sysstat
 
-(Insert package installation screenshot below this section)
+**Evidence**
+
+<img width="1790" height="1098" alt="week3-package-installation" src="https://github.com/user-attachments/assets/89812361-7c79-46ed-b16f-4a3902f8e4bf" />
+
+
+---
+
 
 The installation process demonstrated Linux package management functionality and server-side software deployment through remote administration workflows.
 
@@ -60,7 +66,13 @@ Command used:
 stress-ng --cpu 2 --timeout 30s
 ```
 
-(Insert CPU stress test screenshot below this section)
+**Evidence**
+
+<img width="1506" height="1121" alt="week3-cpu-stress-test" src="https://github.com/user-attachments/assets/da328c7a-5813-440c-937e-17ea33352883" />
+
+
+---
+
 
 This workload generated artificial processor utilisation using two CPU workers for 30 seconds. CPU stress testing is important because it helps identify:
 
@@ -100,7 +112,13 @@ Command used:
 fio --name=test --size=256M --filename=testfile --bs=4k --rw=randrw
 ```
 
-(Insert fio screenshot below this section)
+**Evidence**
+
+<img width="1895" height="1125" alt="week3-fio-test" src="https://github.com/user-attachments/assets/cc1f4a2f-0453-4c03-a953-08f6c8442155" />
+
+
+---
+
 
 The test generated random read/write operations using a 256MB file and 4KB block sizes. Disk I/O analysis is important because storage bottlenecks significantly affect:
 
@@ -129,7 +147,13 @@ Client command:
 iperf3 -c 192.168.56.106
 ```
 
-(Insert iperf3 screenshot below this section)
+**Evidence**
+
+<img width="1900" height="1101" alt="week3-iperf3-test" src="https://github.com/user-attachments/assets/0ec52400-ee3a-4de0-bd1b-ffda44859a5c" />
+
+
+---
+
 
 The test measured TCP bandwidth and network throughput between the workstation and Ubuntu Server virtual machine. Network analysis is important because:
 
@@ -145,7 +169,14 @@ The host-only VirtualBox network configuration provided an isolated environment 
 
 The nginx web server was deployed to provide a lightweight server application suitable for response-time analysis and service monitoring.
 
-(Insert nginx screenshot below this section)
+**Evidence**
+
+<img width="1602" height="1128" alt="week3-nginx-service" src="https://github.com/user-attachments/assets/c3cc76ca-1228-4e98-a5ee-3388b3820150" />
+
+
+---
+
+
 
 Nginx was selected because:
 
