@@ -24,9 +24,12 @@ ssh studentadmin@192.168.56.106
 
 ### SSH Connection Evidence
 
-![SSH Connection](images/week4-ssh-connection.png)
+<img width="1611" height="1089" alt="week4-ssh-key-created" src="https://github.com/user-attachments/assets/3901f0c0-2d6e-444c-8079-6fa46874d495" />
+
 
 ---
+
+
 
 # SSH Hardening Configuration
 
@@ -79,7 +82,7 @@ sudo grep -E "PasswordAuthentication|PermitRootLogin|PubkeyAuthentication|Permit
 
 ### Hardened SSH Configuration Evidence
 
-![SSH Hardening](images/week4-after-ssh-config.png)
+<img width="1430" height="1098" alt="week4-before-ssh-config" src="https://github.com/user-attachments/assets/e3467c75-16cc-4461-8b40-b6c886ab71fd" />
 
 ---
 
@@ -110,9 +113,12 @@ sudo ufw status numbered
 
 ### Firewall Ruleset Evidence
 
-![Firewall Rules](images/week4-firewall-ruleset.png)
+<img width="1430" height="1098" alt="week4-before-ssh-config" src="https://github.com/user-attachments/assets/8716263a-1715-4699-9ec7-175b87fb830b" />
+
 
 ---
+
+
 
 # User Privilege Management
 
@@ -133,9 +139,11 @@ These commands verified:
 
 ### User Privilege Evidence
 
-![Privilege Check](images/week4-user-privilege-check.png)
+<img width="1919" height="1098" alt="week4-user-privilege-check" src="https://github.com/user-attachments/assets/506ab8d0-735f-421b-8b9c-f9468fab957d" />
+
 
 ---
+
 
 # Remote Administration Evidence
 
@@ -152,9 +160,12 @@ sudo ufw status verbose
 
 ### Remote Administration Evidence
 
-![Remote Administration](images/week4-remote-admin-evidence.png)
+
+<img width="1847" height="1127" alt="week4-remote-admin-evidence" src="https://github.com/user-attachments/assets/02253a64-4488-4502-ace8-3142a4ba6697" />
 
 ---
+
+
 
 # Security Analysis and Reflection
 
