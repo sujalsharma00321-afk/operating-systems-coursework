@@ -123,6 +123,7 @@ The `uname -a` command displays Linux kernel information, system architecture, h
 The `free -h` command displays memory usage statistics including total RAM, used memory, available memory, and swap usage using human-readable formatting.
 
 
+<img width="1377" height="780" alt="week1-free-h" src="https://github.com/user-attachments/assets/537ff7d3-4fea-4c17-8ab0-fe7702b06fbf" />
 
 
 ---
@@ -196,9 +197,12 @@ The `lscpu` command displayed processor architecture, CPU virtualization support
 
 The `lsblk` command displayed block storage devices and partition structures configured within the virtual machine.
 
-(Insert lsblk screenshot below this section)
+
+<img width="1915" height="1100" alt="week1-block-devices" src="https://github.com/user-attachments/assets/d4c0e464-d75c-4219-be67-d463fb152d71" />
+
 
 ---
+
 
 ## ping -c 4 google.com
 
